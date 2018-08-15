@@ -1,0 +1,7 @@
+print('Area of a Trapeziod')
+a=int(input('value of a\n'))
+b=int(input('value of b\n'))
+h=int(input ('value of h\n'))
+j=(a+b)
+Area=(h*(j/2))
+print('Area of the trapezoid is',Area)
